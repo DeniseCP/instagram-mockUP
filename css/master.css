@@ -1,3 +1,18 @@
 @import "../lib/normalize.css";
 @import "https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.structure.css";
 @import "https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.theme.css";
+
+.nav-bar{
+  position: fixed;
+  top: auto;
+  width: 100%;
+}
+
+.nav-bar-ul{
+  width: 100%;
+}
+
+.nav-bar-ul li{
+  list-style: none;
+  display: inline;
+}
