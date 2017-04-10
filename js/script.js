@@ -1,0 +1,7 @@
+$(function(){
+  pageLoad();
+});
+
+function pageLoad(){
+
+}
